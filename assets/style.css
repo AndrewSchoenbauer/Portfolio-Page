@@ -1,0 +1,39 @@
+.card {
+    display: inline-block;
+    /* height: 50px; */
+}
+.card-text {
+    height: min-content;
+}
+nav button {
+    display: flex;
+    justify-content: end;
+}
+#navbarNav {
+    justify-content: end;
+}
+#navName {
+    font-weight: bold;
+    font-size: x-large;
+}
+#bodyColor {
+    background-color: #0B1026;
+}
+#containerColor {
+    background-color: #161B36;
+}
+#divColor {
+    background-color: #35475F;
+}
+#listColor {
+    background-color: #5d6170;
+}
+#contactMe {
+    background-color: #35475F;
+}
+#projects {
+    background-color: #35475F;
+}
+#aboutMe {
+    background-color: #161B36;
+}
